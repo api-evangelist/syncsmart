@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SyncSmart is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://syncsmart.io/
+SyncSmart, a Lynton subsidiary based in Katy, Texas, offers self‑service and custom HubSpot integration solutions, including packaged apps and extensions, to help organizations align sales and marketing data and workflows. The platform provides usage‑based pricing and supports both SaaS and on‑premise deployments, enabling businesses to scale their HubSpot ecosystem efficiently.
+
+**Areas:** Integration · HubSpot · Marketing · Sales · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://syncsmart.io/)
+- [Getting started](https://www.syncsmart.io/wix/getting-started)
+- [Support](https://support.syncsmart.io/)
+- [Terms of service](https://www.syncsmart.io/terms-of-use-syncsmart)
+- [Privacy policy](https://www.syncsmart.io/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/syncsmart/](https://apis.io/providers/syncsmart/).
